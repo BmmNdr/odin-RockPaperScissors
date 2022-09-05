@@ -83,3 +83,9 @@ p {
 #scissors:hover {
     background-image: url("./img/scissors_white.png");
 }
+
+#try-again {
+    height: 50px;
+    width: 100px;
+    align-self: center;
+}
